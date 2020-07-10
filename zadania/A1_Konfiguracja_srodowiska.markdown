@@ -26,11 +26,15 @@ Zaczynamy od strony 45
 # 5. Pierwsza kompilacja
 
 Włącz dowolny z terminali:
-- terminal bezpośrednio z intelliJ - lewy dolny róg intelliJ ![Terminal
-  IntelliJ](../obrazy/terminal.png)
+- terminal bezpośrednio z intelliJ - lewy dolny róg intelliJ
+
+ ![Terminal IntelliJ](../obrazy/terminal.png)
 - wiersz polecenia windows
+
   ![Wiersz polecenia](../obrazy/wiersz_polecenia.png)
-- git bash ![Gith bash](../obrazy/git_bash.png)
+- git bash
+
+ ![Gith bash](../obrazy/git_bash.png)
 
 Wykonaj następujące polecenia:
 - cd $HOME/workspace/TESTwro8_podstawy_programowania/pierwszy-program/src/
