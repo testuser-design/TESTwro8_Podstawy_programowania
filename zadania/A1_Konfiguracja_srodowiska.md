@@ -1,9 +1,9 @@
 # Instalacja środowiska
 
   W tej sekcji upewnimy się, że wszyscy mają poprawnie zainstalowane środowisko.
-    W przypadku braku zainstalowanego środowiska prośba o wykonanie zadań [Instalacja JDK](#Instalacja_JDK) oraz
-  [Instalacja Intellij](#Instalacaja_IntelliJ)
+    W przypadku braku zainstalowanego środowiska prośba o wykonanie zadań [Instalacja JDK](#1_Instalacja_JDK) oraz
+  [Instalacja Intellij](#2_Instalacaja_IntelliJ)
 
-# Instalacja JDK
+# 1 Instalacja JDK
 
-# Instalacaja IntelliJ
+# 2 Instalacaja IntelliJ
