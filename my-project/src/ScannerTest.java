@@ -9,7 +9,6 @@ public class ScannerTest {
         System.out.println("Podaj pozycję znaku");
         int index = scanner.nextInt();
 
-
         System.out.println("Znak na pozycji {} "
                 .replace("{}",
                         String.valueOf(index))
