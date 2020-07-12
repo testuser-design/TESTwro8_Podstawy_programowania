@@ -1,29 +1,12 @@
-# Instalacja środowiska
+# 1. Fork repozytorium
 
-  W tej sekcji upewnimy się, że wszyscy mają poprawnie zainstalowane
-  środowisko. W przypadku braku zainstalowanego środowiska prośba o
-  wykonanie zadań [1. Instalacja JDK](#1-instalacja-jdk) oraz
-  [2. Instalacja Intellij](#2-instalacaja-intellij)
+Zrobimy to razem podobnie jak pokazałem na zajęciach z baz danych
 
-   Jeśli posiadasz już obie instalacje zacznij od zadania:
-   [3. Fork repozytorium](#3-fork-repozytorium)
-# 1. Instalacja JDK
+# 2. Pobranie repozytorium
 
-Podążaj za instrukcją zamieszczoną na stronie:
-https://sdacademy.pl/vs-assets/uploads/2019/11/Tester-Instrukcja-Instalacji-Windows-pl.pdf
-Zaczynamy od strony 33
+Tym razem posłużymy się
 
-# 2. Instalacaja IntelliJ
-
-Podążaj za instrukcją zamieszoną na stronie:
-https://sdacademy.pl/vs-assets/uploads/2019/11/Tester-Instrukcja-Instalacji-Windows-pl.pdf
-Zaczynamy od strony 45
-
-# 3. Fork repozytorium
-
-# 4. Pobranie repozytorium
-
-# 5. Pierwsza kompilacja
+# 3. Pierwsza kompilacja
 
 Włącz dowolny z terminali:
 - terminal bezpośrednio z intelliJ - lewy dolny róg intelliJ
@@ -59,3 +42,7 @@ Aby uruchomić program proszę wykonać komendę:
 java PierwszyProgram
 
 Jaki jest wynik?
+
+
+[Wróć do agendy](../README.md)  
+[Link do następnej listy](./A2_Pierwsze_programy.markdown)
