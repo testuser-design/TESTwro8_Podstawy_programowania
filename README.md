@@ -18,30 +18,31 @@ Poniżej znajduje się agenda zajęć przewidzianych na 12.02.2020
    [Lista A2](./zadania/A2_Pierwsze_programy.markdown)
 
 ##  4. Zmienne i typy danych
-    Tak jak i w SQL tak i Javie wyróżniamy typy danych, powiemy sobie o  
-    podstawowych/prymitywnych typach danych oraz zdefiniujemy pojęcie zmiennej.
+   Tak jak i w SQL tak i Javie wyróżniamy typy danych, powiemy sobie o  
+   podstawowych/prymitywnych typach danych oraz zdefiniujemy pojęcie zmiennej.
 
-    Po tej sekcji wykonamy ćwiczenia:
-    [Lista B1](./zadania/B1_Zmienne_i_typy.md)
+   Po tej sekcji wykonamy ćwiczenia:
+   [Lista B1](./zadania/B1_Zmienne_i_typy.md)
 
-    5. Operatory
+## 5. Operatory
 
-    Java jest językiem programowania, zatem jego rolą jest dostarczenie
-    pewnej funkcjonlności. Niejednokrotnie wiąże się to z porównaniami lub 
-    obliczeniami. Do tego służą właśnie operatory.
+   Java jest językiem programowania, zatem jego rolą jest dostarczenie
+   pewnej funkcjonlności. Niejednokrotnie wiąże się to z porównaniami lub
+   obliczeniami. Do tego służą właśnie operatory.
 
-    Gdy poznamy operatory zprawdzimy naszą wiedzę pracując nad zestawem
+   Gdy poznamy operatory zprawdzimy naszą wiedzę pracując nad zestawem
    zadań z:
    [Lista B2](./zadania/B2_operatory.md)
 
 ##  6. Instrukcje warunkowe
-    Aby wykorzystać dobrze operatory porównać dobrze znać instrukcje
-    warunkowe. Omówimy je najpierw teoretycznie an następnie poćwiczymy w
-    ramach:
-    [Lista C1](./zadania/C1_Instrukcje_warunkowe.md)
+
+   Aby wykorzystać dobrze operatory porównać dobrze znać instrukcje
+   warunkowe. Omówimy je najpierw teoretycznie an następnie poćwiczymy w
+   ramach:
+   [Lista C1](./zadania/C1_Instrukcje_warunkowe.md)
 
 ##  7. Iteracje
-    Ostatnim tematem przygotowanym w ramach pierwszego dnia z programowaniem
-    będą iteracje, zaczniemy od omówienia składni i przerobimy jedno lub dwa
-    zadania z:
-    [Lista C2](./zadania/C2_Iteracje.md)
+   Ostatnim tematem przygotowanym w ramach pierwszego dnia z programowaniem
+   będą iteracje, zaczniemy od omówienia składni i przerobimy jedno lub dwa
+   zadania z:
+   [Lista C2](./zadania/C2_Iteracje.md)
