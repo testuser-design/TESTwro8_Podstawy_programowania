@@ -34,6 +34,46 @@ Poniżej znajduje się agenda zajęć przewidzianych na 12.02.2020
    zadań z:
    [Lista B2](./zadania/B2_operatory.md)
 
+## Zadanie domowe
+
+Po operatorach zakończyliśmy zajęcia.
+W ramach zadania domowego zachęcam do powtórzenia sobie informacji.
+Szczególnie tego czego nauczyliśmy się w ramach live coding.
+Dodałem kilka komentarzy do kodu, który tworzyliśmy na zajęciach.
+Najlepiej przeglądać klasy w następującej kolejności:
+- [Pierwszy program](./my-project/src/Hello.java) - ćwiczyliśmy przypisanie prostych stringów do zmiennych i drukowanie na ekran
+- [Drugi program](./my-project/src/SecondProgram.java) - dowiedzieliśmy się jak obsłużyć argumenty programu
+- [Trzeci program](./my-project/src/ScannerTest.java) - pokazaliśmy sobie, że możemy pobierać parametry w czasie życia programu
+- [Czwarty program](./my-project/src/IntToShort.java) - przećwiczyliśmy rzutowanie
+- [Piąty program](./my-project/src/Calculation.java) - wykonaliśmy prostą kalkulację oraz zastosowaliśmy string.replace()
+
+Aby wyrobić sobie wprawę dobrze po prostu pisać.
+
+Dla tych, którzy chcą dobrze przygotować się do kolejnych zajęć
+proponuję następujące zadanie domowe:
+1. stwórz nową klasę
+2. dodaj metodę main do klasy
+3. stwórz kilka zmiennych dowolnego typu w metodzie main
+4. na zmiennych numerycznych wykonaj kilka operacji przy pomocy
+   znanych operatorów
+5. Wyniki operacji przypisz do innych zmiennych
+6. Jeśli część z utworzonych zmiennych jest innego typu niż numeryczny
+    zachęcam to zrobienia konkatenacji i przypisanie do zmiennej String
+7. Na zmiennej klasy string wywołaj różne metody np:
+
+   String wynik = twojaZmienna.replace("a", "b");
+
+   String wynik2 = twojaZmienna.charAt(0);
+
+8. Wszystkie zmienne wydrukuj na ekran używając:
+
+   System.out.println()
+
+Jeśli masz jakieś pytania, pisz na slacku. Po pracy postaram się odpowiedzieć.
+Jeśli sprawnie posługujesz się gitem łatwiej będzie gdy wykonasz commit i push
+zawierające Twój program.
+
+
 ##  6. Instrukcje warunkowe
 
    Aby wykorzystać dobrze operatory porównać dobrze znać instrukcje
