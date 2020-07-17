@@ -29,10 +29,4 @@ czytamy w metodzie jak każdą inną tablicę.
 8. Dla każdej tablicy proszę wwywołać dla każdej z tablic, wcześniej
    zaimplementowaną metodę
 
-# Co dalej?
-
-Dziś to już koniec nowych informacji z Javy, musimy zostawić coś na  
-kolejne zajęcia. Jeśli dotarliśmy aż tu, gratuluję nam wszystkim! :)
-Jeśli nie? Nie szkodzi na kolejnych zajęciach jest odrobinę mniej materiału,  
-więc i tak zdążymy.
 
