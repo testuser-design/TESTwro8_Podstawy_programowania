@@ -74,6 +74,8 @@ Jeśli sprawnie posługujesz się gitem łatwiej będzie gdy wykonasz commit i p
 zawierające Twój program.
 
 
+Temat 6. będie pierwszym tematem wykładu teoretycznego w dniu 2.
+
 ##  6. Instrukcje warunkowe
 
    Aby wykorzystać dobrze operatory porównać dobrze znać instrukcje
@@ -82,7 +84,19 @@ zawierające Twój program.
    [Lista C1](./zadania/C1_Instrukcje_warunkowe.md)
 
 ##  7. Iteracje
-   Ostatnim tematem przygotowanym w ramach pierwszego dnia z programowaniem
-   będą iteracje, zaczniemy od omówienia składni i przerobimy jedno lub dwa
+   Iteracje są bardzo istotną instukcją, ponieważ dają możliwość wykonania operacji dla każdej wartosci w kolekcji.  
+   Zaczniemy od omówienia składni i przerobimy jedno lub dwa
    zadania z:
    [Lista C2](./zadania/C2_Iteracje.md)
+
+## 8. Konstrukcja klasy
+
+   Bardzo obszernie omówimy składowe klasy. Ten rozdział wprowadza nas w świat obiektowości.
+   Zagadnienia omówione w częsci teoretycznej wykorzystuje się prawie na każdym etapie pracy z językiem Java.  
+   Dlatego też w lista zadań odnośnie klas będzie dużo bardziej obszerna:
+
+   [Lista D1](./zadania/D1_Klasy.md)
+
+## Zadania dodatkowe
+    Gdy zdążymy przerobić cały materiał spróbujemy napisać kilka unit testów, w ramach: 
+   [Listy E1](./zadania/E1_lista_dodatkowa.md)
