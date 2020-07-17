@@ -98,5 +98,5 @@ Temat 6. będie pierwszym tematem wykładu teoretycznego w dniu 2.
    [Lista D1](./zadania/D1_Klasy.md)
 
 ## Zadania dodatkowe
-    Gdy zdążymy przerobić cały materiał spróbujemy napisać kilka unit testów, w ramach: 
+   Gdy zdążymy przerobić cały materiał spróbujemy napisać kilka unit testów, w ramach:
    [Listy E1](./zadania/E1_lista_dodatkowa.md)
